@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
+#include <windows.h>
 
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	MessageBox(NULL,L"简单提示信息",L"标题",MB_OK);
 	return 0;
 }
 
