@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	MessageBox(NULL,L"怎么还是哈哈试试吧乱码再次改乱码问题",L"标题",MB_OK);
+	MessageBox(NULL,L"怎哈试码问题",L"标题",MB_OK);
 	return 0;
 }
 
